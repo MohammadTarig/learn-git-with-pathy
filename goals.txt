@@ -1,1 +1,4 @@
 I've learnt tons of stuff ranging from how to use the CLI/terminal and the different commands I can use. I've learnt what Git is and how it makes softare development more effecient. I've also learnt the differences between Git and Github and how to connect a local repo to Github.
+New goals:
+- Upload my 1st project on Github
+- deploy this project
